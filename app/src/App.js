@@ -29,7 +29,7 @@ function App() {
                 <img 
                   src={`${process.env.PUBLIC_URL}/images/${contact.name}.jpeg`} 
                   alt={contact.name}  
-                  style={{ width: '200px', height: '150px' }} 
+                  style={{ width: '180px', height: '150px' }} 
                 />
                   <p>"{contact.username}"</p>
                   <p><b>Email:</b> {contact.email}</p>
