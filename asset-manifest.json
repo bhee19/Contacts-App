@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bhee19/contacts-app/static/css/main.036e864f.css",
-    "main.js": "/bhee19/contacts-app/static/js/main.5837c5bc.js",
-    "index.html": "/bhee19/contacts-app/index.html",
-    "main.036e864f.css.map": "/bhee19/contacts-app/static/css/main.036e864f.css.map",
-    "main.5837c5bc.js.map": "/bhee19/contacts-app/static/js/main.5837c5bc.js.map"
+    "main.css": "/contacts-app/static/css/main.036e864f.css",
+    "main.js": "/contacts-app/static/js/main.f75e7cd4.js",
+    "index.html": "/contacts-app/index.html",
+    "main.036e864f.css.map": "/contacts-app/static/css/main.036e864f.css.map",
+    "main.f75e7cd4.js.map": "/contacts-app/static/js/main.f75e7cd4.js.map"
   },
   "entrypoints": [
     "static/css/main.036e864f.css",
-    "static/js/main.5837c5bc.js"
+    "static/js/main.f75e7cd4.js"
   ]
 }
