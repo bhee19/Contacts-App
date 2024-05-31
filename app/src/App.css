@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  max-width: 800px; /* Adjust the width as desired (e.g., 600px, 700px) */
+  margin: 0 auto; /* Center the content horizontally */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-side, .right-side {
+  width: 45%;
+}
+
+.left-side {
+  text-align: center;
+}
+
+.right-side {
+  text-align: left;
+}
