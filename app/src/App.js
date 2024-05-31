@@ -27,8 +27,8 @@ function App() {
                <div className="contact-container">
                 <div className="left-side">
                 <img 
-                  src={`/images/${contact.name}.jpeg`} 
-                  alt={`${contact.name} Image`}  
+                  src={`${process.env.PUBLIC_URL}/images/${contact.name}.jpeg`} 
+                  alt={contact.name}  
                   style={{ width: '200px', height: '150px' }} 
                 />
                   <p>"{contact.username}"</p>
